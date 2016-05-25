@@ -1,6 +1,6 @@
 {
   "name": "node-expat-papandreou",
-  "version": "2.3.13",
+  "version": "2.3.13-patch1",
   "main": "./lib/node-expat",
   "description": "NodeJS binding for fast XML parsing.",
   "keywords": [
